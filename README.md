@@ -1,4 +1,4 @@
-##Instructions:
+# Instructions:
 
 ## GamesServerProject (back-end)
 Run GameServerDriver.java <br /> 
